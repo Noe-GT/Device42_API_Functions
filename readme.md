@@ -7,10 +7,10 @@
 
 
 ## Details :
-<ins>Search_device_by_name :</ins>\n
+<ins>Search_device_by_name :</ins>
 Prints the Device42 device corresponding to the input name.
 
-<ins>Search_device_by_os :</ins>\n
+<ins>Search_device_by_os :</ins>
 Prints the Device42 device corresponding to the chosen Operating System (as input).
 
 <ins>Device_batch_tester :</ins>

@@ -7,16 +7,16 @@
 
 
 ## Details :
-<ins>Search_device_by_name :</ins></break>
+<ins>Search_device_by_name :</ins>\n
 Prints the Device42 device corresponding to the input name.
 
-<ins>Search_device_by_os :</ins></break>
+<ins>Search_device_by_os :</ins>\n
 Prints the Device42 device corresponding to the chosen Operating System (as input).
 
-<ins>Device_batch_tester :</ins></break>
+<ins>Device_batch_tester :</ins>
 Test the existence of a list of multiple devices on your Device42 session with this Python script. (Can be easily modified to return all data from each device).
 
-<ins>Update_device_status :</ins></break>
+<ins>Update_device_status :</ins>
 Enables you to change any information about a device from its ID on Device42.
 
 <ins>Update_devices_by_ip :</ins>

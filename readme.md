@@ -5,6 +5,7 @@
 - Update_device_status
 - Update_devices_by_ip
 - Remove_tag_from_devices
+- Add_ip_to_job
 
 
 ## Details :

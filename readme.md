@@ -4,6 +4,7 @@
 - Device_batch_tester
 - Update_device_status
 - Update_devices_by_ip
+- Remove_tag_from_devices
 
 
 ## Details :
